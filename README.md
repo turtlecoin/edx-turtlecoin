@@ -1,5 +1,5 @@
 # edX TurtleCoin Theme
-A bootstrap TurtleCoin theme for Open edX. For installation instructions refer to REFERENCE.md. 
+A bootstrap TurtleCoin theme for Open edX. For installation instructions refer to [REFERENCE.rst](https://github.com/turtlecoin/edx-turtlecoin/blob/master/REFERENCE.rst). 
 
 ## To-Do
 
